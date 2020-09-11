@@ -1,6 +1,10 @@
-# GADS2020-Practice Project
+# Google Africa Developer Scholarship Programme
+## GADS 2020 Practice Project
 ## Name: OBIDIYA Olaleye
-## Track: Google Cloud
+## Email: olaleyeobidiya@gmail.com
+## Track: Google Cloud (Associate Cloud Engineer)
+
+### Section A:
 
 Here is a list of completed qwiklabs for the practice project to be submitted.
 
@@ -55,4 +59,12 @@ Here is a list of completed qwiklabs for the practice project to be submitted.
 15. Google Cloud Fundamentals: Getting Started with Cloud Storage and Cloud SQL.
     * [Qwiklabs snapshot](./images/practice-project-15.png)
     * [Email snapshot](./images/practice-project-15-1.png)
+
+
+### Section B:
+
+Here is a list of translated qwiklabs to full-fledged cloud shell command lines.
+
+1. [Translation for Google Cloud Fundamentals: Getting Started with App Engine](./first-translation.md)
+2. [Translation for Google Cloud Fundamentals: Getting Started with GKE](./second-translation.md)
 
